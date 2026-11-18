@@ -563,7 +563,7 @@ DAILY_CREDITS = 1
 REFERRAL_CREDITS = 1
 
 # Bot Credit Line (using special bold)
-BOT_CREDIT = "⚡ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ : @Raizz_Baby28"
+BOT_CREDIT = "⚡ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ : TGOSINT"
 
 # ── Feature Credit Costs (Admin can change at runtime) ──
 # Feature costs loaded from DB, fallback to defaults
